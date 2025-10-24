@@ -8,7 +8,7 @@
         },
         "secondary": {
           "$type": "color",
-          "$value": "{color.palette.mono.700}"
+          "$value": "{color.palette.mono.500}"
         },
         "inverse": {
           "$type": "color",

@@ -2,11 +2,6 @@
   {
     "id": "83c52ead42ca0eeaa4102cc47eaf0d319edc6b7a",
     "name": "light",
-    "group": "mode",
-    "selectedTokenSets": {
-      "palette": "source",
-      "mode/light": "enabled"
-    },
     "$figmaStyleReferences": {
       "color.core.content.primary": "S:2d14a6713f6fb9b2d3fe8e70b36d0043d9a918ca,",
       "color.core.content.secondary": "S:c3e48dbe21a61d27eaafc1fbeb94b94221288487,",
@@ -41,6 +36,12 @@
       "color.button.border.secondary.hover": "S:f9379551cbb3a1c58d13476cac4192ed672fe59b,",
       "color.button.border.secondary.active": "S:2bc337048228e7c4fa9000af8c5bf562224a7e69,"
     },
+    "selectedTokenSets": {
+      "palette": "source",
+      "mode/light": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3:384",
+    "$figmaModeId": "3:0",
     "$figmaVariableReferences": {
       "color.core.content.primary": "357ffb53c4fd757a6dc0894f935d38c8954df693",
       "color.core.content.secondary": "698674710cd766149613908218d91d2a9aa0dccc",
@@ -75,17 +76,11 @@
       "color.button.border.secondary.hover": "651e8299a18d3c8324e7c278496d0b257c6b3327",
       "color.button.border.secondary.active": "22a5097edbcadebd3c265ed77a212027bc327b02"
     },
-    "$figmaCollectionId": "VariableCollectionId:3:384",
-    "$figmaModeId": "3:0"
+    "group": "mode"
   },
   {
     "id": "d104b20e6880a13be2ebf9f87b283b039c9fe2f4",
     "name": "dark",
-    "group": "mode",
-    "selectedTokenSets": {
-      "palette": "source",
-      "mode/dark": "enabled"
-    },
     "$figmaStyleReferences": {
       "color.yellow.100": "S:575f2c8389a2bafe7cab93ef2686566350857a60,",
       "color.yellow.200": "S:a9f6ad6b8f01b8cf615f6ec5d665852d6f553ce9,",
@@ -179,6 +174,12 @@
       "color.button.border.secondary.hover": "S:bfb199a382c0fd66759af76863aa1c11bb8a3ab7,",
       "color.button.border.secondary.active": "S:191eaad9ea386a63f626b121019911f426a52377,"
     },
+    "selectedTokenSets": {
+      "palette": "source",
+      "mode/dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3:384",
+    "$figmaModeId": "3:1",
     "$figmaVariableReferences": {
       "color.core.content.primary": "357ffb53c4fd757a6dc0894f935d38c8954df693",
       "color.core.content.secondary": "698674710cd766149613908218d91d2a9aa0dccc",
@@ -213,16 +214,11 @@
       "color.button.border.secondary.hover": "651e8299a18d3c8324e7c278496d0b257c6b3327",
       "color.button.border.secondary.active": "22a5097edbcadebd3c265ed77a212027bc327b02"
     },
-    "$figmaCollectionId": "VariableCollectionId:3:384",
-    "$figmaModeId": "3:1"
+    "group": "mode"
   },
   {
     "id": "7ec215cb5d41816e20e6eb1ae373d30d1ca2ca9b",
     "name": "global",
-    "selectedTokenSets": {
-      "palette": "enabled",
-      "global": "enabled"
-    },
     "$figmaStyleReferences": {
       "color.yellow.100": "S:575f2c8389a2bafe7cab93ef2686566350857a60,",
       "color.yellow.200": "S:a9f6ad6b8f01b8cf615f6ec5d665852d6f553ce9,",
@@ -292,6 +288,12 @@
       "color.palette.black": "S:1b62403bd0a94792341fd6dcbbb77e91015f5396,",
       "font.button.default": "S:26511ba70da122e016a300b7f704904c18927943,"
     },
+    "selectedTokenSets": {
+      "palette": "enabled",
+      "global": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:3:397",
+    "$figmaModeId": "3:2",
     "$figmaVariableReferences": {
       "dimension.x025": "0b2c663592a31141a9ab6fe2baa6e06594d93bf7",
       "dimension.x050": "b61dcdce59aff1db837de843c7530b3b96de4446",
@@ -418,18 +420,11 @@
       "color.palette.accent.800": "2042d5eb5196204634f440a5695e09ff97095da7",
       "color.palette.accent.900": "7dbbf1302077b5e887d438a65b331af59565101e",
       "color.palette.accent.950": "43777ddaa1cbcebb093db8b95e0e5e3711225fca"
-    },
-    "$figmaCollectionId": "VariableCollectionId:3:397",
-    "$figmaModeId": "3:2"
+    }
   },
   {
     "id": "b8625225c81e87c45cc334a0785a4c5e59b72f2b",
     "name": "mobile",
-    "group": "viewport",
-    "selectedTokenSets": {
-      "viewport/typography_mobile": "enabled",
-      "global": "source"
-    },
     "$figmaStyleReferences": {
       "font.headline.xl": "S:82eb716c12f6d2c6052309da26676ff3096d7be3,",
       "font.headline.l": "S:77d93a04cf9ad979fc7471f4df5f19d333bcd522,",
@@ -444,16 +439,16 @@
       "font.caption.m.underline": "S:5df00175da5c8a5e79fb0ff2f43094efe9f061c9,",
       "font.button.default": "S:cca2509e8965ced3caa80c99e683ef55977a8537,"
     },
+    "selectedTokenSets": {
+      "viewport/typography_mobile": "enabled",
+      "global": "source"
+    },
+    "group": "viewport",
     "$figmaVariableReferences": {}
   },
   {
     "id": "d10bc5623a976f97b4dcf7983ccda67e1a85c7e6",
     "name": "desktop",
-    "group": "viewport",
-    "selectedTokenSets": {
-      "viewport/typography_desktop": "enabled",
-      "global": "source"
-    },
     "$figmaStyleReferences": {
       "font.headline.xl": "S:8b727dea61c8ca045c771ef0890ef8fcd7f43dd1,",
       "font.headline.l": "S:690a48914cd3acdd0e43b947325d08c299b9dd7f,",
@@ -468,16 +463,21 @@
       "font.caption.m.underline": "S:64cfd369210e927d87f265e8ad9f6067aacb21ad,",
       "font.button.default": "S:5a5ddcfa3f5ba9c8c79ef8d1c858a7237fa5fb10,"
     },
+    "selectedTokenSets": {
+      "viewport/typography_desktop": "enabled",
+      "global": "source"
+    },
+    "group": "viewport",
     "$figmaVariableReferences": {}
   },
   {
     "id": "70f595b88a1c6c2fe8b097ff66d90abe78fb5254",
     "name": "es",
-    "group": "copies",
+    "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "copies/es": "enabled"
     },
-    "$figmaStyleReferences": {},
+    "group": "copies",
     "$figmaVariableReferences": {
       "hero.title": "ea59c3617a51cf963da6c3af58951416937627e6",
       "hero.subtitle": "0290772830a43bbf572c4df3599207fe8a46ae27",
@@ -572,11 +572,11 @@
   {
     "id": "fcae807d784616da729a8bfed3ff8796bb967d53",
     "name": "en",
-    "group": "copies",
+    "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "copies/en": "enabled"
     },
-    "$figmaStyleReferences": {},
+    "group": "copies",
     "$figmaVariableReferences": {
       "hero.title": "ea59c3617a51cf963da6c3af58951416937627e6",
       "hero.subtitle": "0290772830a43bbf572c4df3599207fe8a46ae27",
