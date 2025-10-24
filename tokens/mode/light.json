@@ -4,7 +4,7 @@
       "content": {
         "primary": {
           "$type": "color",
-          "$value": "{color.palette.black}"
+          "$value": "{color.palette.accent.200}"
         },
         "secondary": {
           "$type": "color",

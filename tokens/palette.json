@@ -196,47 +196,47 @@
       "accent": {
         "50": {
           "$type": "color",
-          "$value": "#effef1"
+          "$value": "#ffefd3"
         },
         "100": {
           "$type": "color",
-          "$value": "#d9ffde"
+          "$value": "#ffe1a6"
         },
         "200": {
           "$type": "color",
-          "$value": "#b5fdbf"
+          "$value": "#ffcc00"
         },
         "300": {
           "$type": "color",
-          "$value": "#7cf98f"
+          "$value": "#eabb00"
         },
         "400": {
           "$type": "color",
-          "$value": "#3bed57"
+          "$value": "#cda400"
         },
         "500": {
           "$type": "color",
-          "$value": "#11ca2f"
+          "$value": "#ad8a00"
         },
         "600": {
           "$type": "color",
-          "$value": "#08b123"
+          "$value": "#8c6f00"
         },
         "700": {
           "$type": "color",
-          "$value": "#0a8b1f"
+          "$value": "#6a5300"
         },
         "800": {
           "$type": "color",
-          "$value": "#0e6d1e"
+          "$value": "#483800"
         },
         "900": {
           "$type": "color",
-          "$value": "#0e591d"
+          "$value": "#281d00"
         },
         "950": {
           "$type": "color",
-          "$value": "#01320b"
+          "$value": "#171000"
         }
       }
     }
