@@ -4,7 +4,7 @@
       "content": {
         "primary": {
           "$type": "color",
-          "$value": "{color.palette.accent.200}"
+          "$value": "{color.palette.mono.950}"
         },
         "secondary": {
           "$type": "color",
@@ -16,7 +16,7 @@
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.accent.800}"
+          "$value": "{color.palette.accent.200}"
         }
       },
       "background": {
@@ -34,7 +34,7 @@
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.accent.700}"
+          "$value": "{color.palette.accent.50}"
         },
         "accent-light": {
           "$type": "color",
