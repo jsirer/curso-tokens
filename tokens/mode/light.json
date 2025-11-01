@@ -38,7 +38,7 @@
         },
         "accent-light": {
           "$type": "color",
-          "$value": "{color.palette.mono.100}"
+          "$value": "{color.palette.accent.900}"
         }
       },
       "border": {
@@ -117,7 +117,7 @@
         "secondary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.content.accent}"
+            "$value": "{color.palette.accent.800}"
           },
           "hover": {
             "$type": "color",
@@ -147,7 +147,7 @@
         "secondary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.border.accent}"
+            "$value": "{color.palette.accent.800}"
           },
           "hover": {
             "$type": "color",
