@@ -4,7 +4,7 @@
       "content": {
         "primary": {
           "$type": "color",
-          "$value": "{color.button.background.primary.active}"
+          "$value": "{color.palette.mono.700}"
         },
         "secondary": {
           "$type": "color",
@@ -30,7 +30,7 @@
         },
         "secondary": {
           "$type": "color",
-          "$value": "{color.palette.mono.700}"
+          "$value": "{color.palette.mono.200}"
         },
         "accent": {
           "$type": "color",
@@ -165,13 +165,13 @@
     "hero": {
       "bg": {
         "$type": "asset",
-        "$value": "layout-bg-light.svg"
+        "$value": "layout-bg.png"
       }
     },
     "intro": {
       "right": {
         "$type": "asset",
-        "$value": "galaxy-light.svg"
+        "$value": "politicos.png"
       }
     },
     "header": {
@@ -247,11 +247,11 @@
     "avatar": {
       "1": {
         "$type": "asset",
-        "$value": "pablo-fernandez.png"
+        "$value": "trump.png"
       },
       "2": {
         "$type": "asset",
-        "$value": "pablo-peribanez.png"
+        "$value": "joselu.png"
       },
       "3": {
         "$type": "asset",

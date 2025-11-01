@@ -4,7 +4,7 @@
       "xl": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamily.primary}",
+          "fontFamily": "Akatab",
           "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeight.small}",
           "fontSize": "{fontSize.1000}",
