@@ -2,47 +2,47 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Bienvenido mundo!"
+      "$value": "Bootcamp avanzado de política mezquina"
     },
     "subtitle": {
       "$type": "text",
-      "$value": "Subtítulo principal"
+      "$value": "Conviértete en un político rastrero en pocas semanas"
     },
     "button": {
       "$type": "text",
-      "$value": "Botón principal"
+      "$value": "¡Si, quiero governar!"
     }
   },
   "intro": {
     "title": {
       "$type": "text",
-      "$value": "Título de introducción"
+      "$value": "Gana las siguientes elecciones"
     },
     "subtitle": {
       "p1": {
         "$type": "text",
-        "$value": "Párrafo de introducción 1"
+        "$value": "No es necesaria formación previa"
       },
       "p2": {
         "$type": "text",
-        "$value": "Párrafo de introducción 2"
+        "$value": "No importa si tenes principios o valores morales"
       }
     },
     "button": {
       "primary": {
         "$type": "text",
-        "$value": "Botón primario de introducción"
+        "$value": "¡Sigo queriendo governar!"
       },
       "secondary": {
         "$type": "text",
-        "$value": "Botón secundario de introducción"
+        "$value": "Convencer a alguien"
       }
     }
   },
   "logos": {
     "title": {
       "$type": "text",
-      "$value": "Título de logos"
+      "$value": "Estos ya han completado el curso"
     }
   },
   "sessions": {
@@ -76,141 +76,141 @@
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta uno"
+          "$value": "PARA EMPEZAR"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta uno"
+          "$value": "Escoge tu color"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta uno"
+          "$value": "Quedan ya pocos disponibles, aprende a escoger el correcto."
         }
       },
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta dos"
+          "$value": "NAMING"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta dos"
+          "$value": "Escoge un buen nombre"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta dos"
+          "$value": "Camufla detrás de unas siglas tus malas intenciones"
         }
       },
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta tres"
+          "$value": "METTINGS"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta tres"
+          "$value": "Oratoria mentirosa"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta tres"
+          "$value": "Aprende a manipular a tus seguidores hablando bien."
         }
       },
       "four": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta cuatro"
+          "$value": "COSTE 0"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta cuatro"
+          "$value": "Financia tu proyecto a coste 0"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta cuatro"
+          "$value": "Haz que esta aventura te salga gratis"
         }
       },
       "five": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta cinco"
+          "$value": "CUMPLIR OBJETIVOS"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta cinco"
+          "$value": "Soborno avanzado"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta cinco"
+          "$value": "Aprende a quien y como sobornar"
         }
       },
       "six": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta seis"
+          "$value": "EL EQUIPO"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta seis"
+          "$value": "Gestión de buitres"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta seis"
+          "$value": "Aprende a gestionar al equipo de víboras que destruirán el pueblo, ciudad o nación."
         }
       },
       "seven": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta siete"
+          "$value": "INFLUENCERS"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta siete"
+          "$value": "Buenas compañías"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta siete"
+          "$value": "Narcos, puteros, mafiosos, contrabandistas, y mucho más..."
         }
       },
       "eight": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta ocho"
+          "$value": "UNA VEZ DENTRO"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta ocho"
+          "$value": "Mordidas de las buenas"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta ocho"
+          "$value": "No te conformes con poco, aprende a pegar un buen pelotazo."
         }
       },
       "nine": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta nueve"
+          "$value": "UNA VEZ FUERA"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta nueve"
+          "$value": "Puertas giratorias"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta nueve"
+          "$value": "Recuerda, seguirás siendo un pardillo... prepárate para ello y no te quedes fuera."
         }
       },
       "ten": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta diez"
+          "$value": "POR SI ACASO"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta diez"
+          "$value": "Tirar de la manta con estilo"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta diez"
+          "$value": "Recuerda, si te echan del convento... cágate dentro."
         }
       }
     }
@@ -219,68 +219,68 @@
     "one": {
       "name": {
         "$type": "text",
-        "$value": "Nombre uno"
+        "$value": "Donaldo Trampa"
       },
       "position": {
         "$type": "text",
-        "$value": "Cargo uno"
+        "$value": "Payaso sénior"
       }
     },
     "two": {
       "name": {
         "$type": "text",
-        "$value": "Nombre dos"
+        "$value": "Joselu"
       },
       "position": {
         "$type": "text",
-        "$value": "Cargo dos"
+        "$value": "Vividator PRO-gre"
       }
     },
     "title": {
       "$type": "text",
-      "$value": "Título de profesores"
+      "$value": "Expertos con prestigio internacional"
     }
   },
   "pricing": {
     "title": {
       "$type": "text",
-      "$value": "Título de precios"
+      "$value": "¡Tú no pagas!"
     },
     "card": {
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda tarjeta uno"
+          "$value": "LO PAGAS TÚ"
         },
         "title": {
           "$type": "text",
-          "$value": "Título tarjeta uno"
+          "$value": "Conservador"
         },
         "price": {
           "$type": "text",
-          "$value": "Precio"
+          "$value": "10€"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción tarjeta uno"
+          "$value": "Lo pagas tu, tonto..."
         },
         "button": {
           "$type": "text",
-          "$value": "Botón tarjeta uno"
+          "$value": "Ni de coña"
         }
       },
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda tarjeta dos"
+          "$value": "ACCESO VITALICIO"
         },
         "title": {
           "$type": "text",
-          "$value": "Título tarjeta dos"
+          "$value": "Extremista"
         },
         "price-primary": {
           "$type": "text",
-          "$value": "Precio principal"
+          "$value": "0€"
         },
         "price-secondary": {
           "$type": "text",
@@ -288,29 +288,29 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción tarjeta dos"
+          "$value": "Lo pagarán todos los ciudadanos con sus impuestos, tranquilo..."
         },
         "button": {
           "$type": "text",
-          "$value": "Botón tarjeta dos"
+          "$value": "¡Ou yes mama, eso me gusta!"
         }
       },
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda tarjeta tres"
+          "$value": "ACCESO EXTENDIDO"
         },
         "title": {
           "$type": "text",
-          "$value": "Título tarjeta tres"
+          "$value": "Moderado"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción tarjeta tres"
+          "$value": "Lo pagarán tus afiliados"
         },
         "button": {
           "$type": "text",
-          "$value": "Botón tarjeta tres"
+          "$value": "Implicación ante todo"
         }
       }
     }
@@ -318,73 +318,73 @@
   "video": {
     "title": {
       "$type": "text",
-      "$value": "Título del video"
+      "$value": "Que guapo que eres"
     }
   },
   "faqs": {
     "one": {
       "title": {
         "$type": "text",
-        "$value": "Título uno"
+        "$value": "¿Seguro que yo no pago nada?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción uno"
+        "$value": "No tengo dinero"
       }
     },
     "two": {
       "title": {
         "$type": "text",
-        "$value": "Título dos"
+        "$value": "¿Y si voy a la cárcel?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción dos"
+        "$value": "Tranquilo, no suele pasar"
       }
     },
     "three": {
       "title": {
         "$type": "text",
-        "$value": "Título tres"
+        "$value": "¿Incluye workshop de blanqueo?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción tres"
+        "$value": "Que hago con tanta pasta"
       }
     },
     "four": {
       "title": {
         "$type": "text",
-        "$value": "Título cuatro"
+        "$value": "Armar un poliCV"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción cuatro"
+        "$value": "Como meter títulos falsos sin que se note"
       }
     },
     "five": {
       "title": {
         "$type": "text",
-        "$value": "Título cinco"
+        "$value": "¿Me pagan mi vivienda?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción cinco"
+        "$value": "¿O vivo en Moncloa?"
       }
     },
     "six": {
       "title": {
         "$type": "text",
-        "$value": "Título seis"
+        "$value": "¿Se puede pagar el curso en B?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción seis"
+        "$value": "Algo tendremos que hacer con tantas lechugas"
       }
     },
     "title": {
       "$type": "text",
-      "$value": "Título de preguntas frecuentes"
+      "$value": "Claro clarinete, consulta preguntas que ya nos han hecho otros"
     }
   },
   "footer": {
