@@ -24,11 +24,11 @@
           "$type": "color",
           "$value": "{color.palette.mono.100}"
         },
-        "primary": {
+        "secondary": {
           "$type": "color",
           "$value": "{color.palette.mono.50}"
         },
-        "secondary": {
+        "primary": {
           "$type": "color",
           "$value": "{color.palette.mono.200}"
         },
