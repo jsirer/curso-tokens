@@ -184,7 +184,7 @@
     },
     "semibold": {
       "$type": "fontWeights",
-      "$value": "SemiBold"
+      "$value": "Bold"
     }
   },
   "fontSize": {

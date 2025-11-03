@@ -38,7 +38,7 @@
         },
         "accent-light": {
           "$type": "color",
-          "$value": "{color.palette.accent.900}"
+          "$value": "{color.palette.mono.700}"
         }
       },
       "border": {
