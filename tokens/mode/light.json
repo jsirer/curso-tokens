@@ -103,7 +103,7 @@
         "primary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.content.inverse}"
+            "$value": "{color.palette.mono.500}"
           },
           "hover": {
             "$type": "color",
