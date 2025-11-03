@@ -195,52 +195,52 @@
     "logos": {
       "1": {
         "$type": "asset",
-        "$value": "Atlassian-logo-light.svg"
+        "$value": "erc.svg"
       },
       "2": {
         "$type": "asset",
-        "$value": "google-logo-light.svg"
+        "$value": "pp.svg"
       },
       "3": {
         "$type": "asset",
-        "$value": "zendesk-logo-light.svg"
+        "$value": "psoe.svg"
       },
       "4": {
         "$type": "asset",
-        "$value": "adobe-logo-light.svg"
+        "$value": "vox.svg"
       },
       "5": {
         "$type": "asset",
-        "$value": "salesforce-logo-light.svg"
+        "$value": "podemos.svg"
       },
       "6": {
         "$type": "asset",
-        "$value": "uber-logo-light.svg"
+        "$value": "ciudadanos.svg"
       },
       "placeholder": {
         "1": {
           "$type": "asset",
-          "$value": "Atlassian-logo-placeholder-light.svg"
+          "$value": "erc.svg"
         },
         "2": {
           "$type": "asset",
-          "$value": "google-logo-placeholder-light.svg"
+          "$value": "pp.svg"
         },
         "3": {
           "$type": "asset",
-          "$value": "zendesk-logo-placeholder-light.svg"
+          "$value": "psoe.svg"
         },
         "4": {
           "$type": "asset",
-          "$value": "adobe-logo-placeholder-light.svg"
+          "$value": "vox.svg"
         },
         "5": {
           "$type": "asset",
-          "$value": "salesforce-logo-placeholder-light.svg"
+          "$value": "podemos.svg"
         },
         "6": {
           "$type": "asset",
-          "$value": "uber-logo-placeholder-light.svg"
+          "$value": "ciudadanos.svg"
         }
       }
     },
