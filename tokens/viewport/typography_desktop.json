@@ -5,9 +5,9 @@
         "$type": "typography",
         "$value": {
           "fontFamily": "Akatab",
-          "fontWeight": "{fontWeight.medium}",
+          "fontWeight": "{fontWeight.semibold}",
           "lineHeight": "{lineHeight.small}",
-          "fontSize": "{fontSize.1000}",
+          "fontSize": "{dimension.x2000}",
           "letterSpacing": "{letterSpacing.contracted}"
         }
       },
